@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Fotoflix
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fotoflix is a dynamic MERN stack application that allows users to explore, save, and manage their favorite photos. Powered by the Unsplash API, Fotoflix provides a seamless browsing experience where users can discover stunning images, search by keywords, and organize their favorites effortlessly.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Browse a curated collection of photos from Unsplash.
+- Search photos by keywords.
+- Save favorite photos to your personal collection.
+- Responsive design for optimal viewing on various devices.
 
-### `npm start`
+## Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Check out the live demo: [Fotoflix](https://photoflix-two.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **Frontend:** React.js, React Router
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **API:** Unsplash API
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+To run Fotoflix locally, follow these steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dveersingh000/Fotoflix.git
+   cd fotoflix
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Install dependencies:
+-  npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Run the development server:
+-  pm start
 
-### `npm run eject`
+4. Open your browser and visit http://localhost:3000 to view Fotoflix.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div align="center">
+  <img src="./screenshots/screenshot1.png" alt="Screenshot 1" width="400">
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div align="center">
+  <img src="./screenshots/screenshot2.png" alt="Screenshot 2" width="400">
+</div>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<div align="center">
+  <img src="./screenshots/screenshot3.png" alt="Screenshot 3" width="400">
+</div>
 
-## Learn More
+<div align="center">
+  <img src="./screenshots/screenshot4.png" alt="Screenshot 4" width="400">
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+   Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or a pull request.
