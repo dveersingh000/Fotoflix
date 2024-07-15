@@ -39,21 +39,15 @@ To run Fotoflix locally, follow these steps:
 
 ## Screenshots
 
-<div align="center">
+<p align="center">
   <img src="./src/screenshots/screenshot1.png" alt="Screenshot 1" width="400">
-</div>
-
-<div align="center">
   <img src="./src/screenshots/screenshot2.png" alt="Screenshot 2" width="400">
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="./src/screenshots/screenshot3.png" alt="Screenshot 3" width="400">
-</div>
-
-<div align="center">
   <img src="./src/screenshots/screenshot4.png" alt="Screenshot 4" width="400">
-</div>
+</p>
 
 
 ## Contributing
